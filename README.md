@@ -1,4 +1,4 @@
-# Customer_Order_Analysis_Powerbi
+# Customer_order_Analysis_Powerbi
 
 I built this project in Power BI to answer six questions about a messy customer orders file. The raw data had duplicate customers and blank, zero and negative order amounts. Most of the work went into cleaning it and deciding what counts as a real order before I built the dashboard.
 
@@ -293,7 +293,7 @@ Customer_Order_Analysis/
 
 1. Install Power BI Desktop (it is free, Windows only).
 2. Download or clone this repository.
-3. Open Project_Main/Customer_Order_Analysis.pbix.
+3. Open Project_Main/Customer_order_Analysis.pbix.
 4. If Power BI can't find the data, go to Transform data, then Data source settings, then Change Source, and point it to Raw_Data/dirty_customer_orders.xlsx on your computer.
  
 
