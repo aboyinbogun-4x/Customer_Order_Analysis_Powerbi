@@ -295,9 +295,8 @@ Customer_Order_Analysis/
 3. Open Project_Main/Customer_Order_Analysis.pbix.
 4. If Power BI can't find the data, go to Transform data, then Data source settings, then Change Source, and point it to Raw_Data/dirty_customer_orders.xlsx on your computer.
  
- ## About me
 
-I am a Certified Data Analyst with practical experience in Power BI, data cleaning, data modelling, and building interactive dashboards that ## About me
+ ## About me
 
 I'm a Certified Data Analyst. I work with Power BI to clean messy data, build proper models, and create dashboards that actually answer business questions.
 
