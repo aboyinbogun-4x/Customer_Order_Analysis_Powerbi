@@ -21,6 +21,7 @@ I built this project in Power BI to answer six questions about a messy customer 
 - Limitations
 - Repository structure
 - How to open the project
+- About me
 
 
 ## About the project
@@ -77,7 +78,7 @@ Fact_Customer sits in the middle and connects to three dimension tables. Every r
 
 Here is what I fixed in the raw file:
 
-- Removed duplicate customers so each customer appears once ({{DUPLICATES_REMOVED}} rows removed)
+- Removed duplicate customers so each customer appears once 
 - Put the signup dates into one clean column called SignupDateClean
 - Cleaned up the country and category text so each value is spelled one way
 - Left blank, zero and negative order amounts in the data, and excluded them in the measures instead
@@ -293,3 +294,13 @@ Customer_Order_Analysis/
 2. Download or clone this repository.
 3. Open Project_Main/Customer_Order_Analysis.pbix.
 4. If Power BI can't find the data, go to Transform data, then Data source settings, then Change Source, and point it to Raw_Data/dirty_customer_orders.xlsx on your computer.
+ 
+ ## About me
+
+I am a Certified Data Analyst with practical experience in Power BI, data cleaning, data modelling, and building interactive dashboards that ## About me
+
+I'm a Certified Data Analyst. I work with Power BI to clean messy data, build proper models, and create dashboards that actually answer business questions.
+
+I focus on clear analysis and useful recommendations rather than just making nice-looking charts.
+
+GitHub: https://github.com/aboyinbogun-4x
