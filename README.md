@@ -1,4 +1,4 @@
-# Customer_Order_Analysis Powerbi
+# Customer_Order_Analysis_Powerbi
 
 I built this project in Power BI to answer six questions about a messy customer orders file. The raw data had duplicate customers and blank, zero and negative order amounts. Most of the work went into cleaning it and deciding what counts as a real order before I built the dashboard.
 
