@@ -32,7 +32,7 @@ The report has three pages: Research Questions, Report (the dashboard) and Recom
 ## Dataset
 
 - File: dirty_customer_orders.xlsx (in the Raw_Data folder)
-- {RAW_Data} rows in the raw file, 137 customers after removing duplicates
+- {RAW_Data} rows in messy raw file, 137 customers after removing duplicates
 - 6 countries: Australia, Canada, Germany, Saudi Arabia, United Kingdom, United States
 - 6 categories: Books, Clothing, Electronics, Home & Garden, Sports, Toys
 - Customer signups from 2021 to 2024
