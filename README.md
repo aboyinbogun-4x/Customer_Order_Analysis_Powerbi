@@ -1,4 +1,4 @@
-# Customer Order Analysis (Power BI)
+# Customer_Order_Analysis Powerbi
 
 I built this project in Power BI to answer six questions about a messy customer orders file. The raw data had duplicate customers and blank, zero and negative order amounts. Most of the work went into cleaning it and deciding what counts as a real order before I built the dashboard.
 
@@ -32,7 +32,7 @@ The report has three pages: Research Questions, Report (the dashboard) and Recom
 ## Dataset
 
 - File: dirty_customer_orders.xlsx (in the Raw_Data folder)
-- {{RAW_ROWS}} rows in the raw file, 137 customers after removing duplicates
+- {RAW_Data} rows in the raw file, 137 customers after removing duplicates
 - 6 countries: Australia, Canada, Germany, Saudi Arabia, United Kingdom, United States
 - 6 categories: Books, Clothing, Electronics, Home & Garden, Sports, Toys
 - Customer signups from 2021 to 2024
