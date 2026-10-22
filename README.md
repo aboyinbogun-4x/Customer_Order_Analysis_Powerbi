@@ -21,7 +21,7 @@ I built this project in Power BI to answer six questions about a messy customer 
 - Limitations
 - Repository structure
 - How to open the project
-- About me
+
 
 ## About the project
 
