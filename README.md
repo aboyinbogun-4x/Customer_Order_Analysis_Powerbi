@@ -36,7 +36,7 @@ The report has three pages: Research Questions, Report (the dashboard) and Recom
 - 6 countries: Australia, Canada, Germany, Saudi Arabia, United Kingdom, United States
 - 6 categories: Books, Clothing, Electronics, Home & Garden, Sports, Toys
 - Customer signups from 2021 to 2024
-- {{SAY WHERE THE DATA CAME FROM AND WHETHER IT IS SYNTHETIC}}
+
 
 There is no order date in the data, only a signup date. So every year and month result in this project is about when customers signed up, not when they bought.
 
@@ -48,6 +48,7 @@ There is no order date in the data, only a signup date. So every year and month 
 4. In each country, which category earns the most and which earns the least? How big is the gap as a percentage of that country's revenue? (Order counts are shown beside revenue, and results based on very few orders are flagged.)
 5. Which year had the most new customers, after removing duplicates, and which categories did those customers order most?
 6. In which months do most customers sign up? (This is signup seasonality, not sales seasonality.)
+
 
 ![Research Questions page](Screenshot/Research_Questions.png)
 
