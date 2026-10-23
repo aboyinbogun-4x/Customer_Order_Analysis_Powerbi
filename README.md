@@ -4,8 +4,14 @@ I built this project in Power BI to answer six questions about a messy customer 
 
 ![Dashboard](Screenshot/Dashboard.png)
 
-## Contents
+## Key business impact
 
+- **Cleaning changed the answer.** Counting only valid orders moved total revenue from $77,462 to $105,399 and the top category from Clothing to Electronics. The average order went from $724 to $1,198.
+- **36% of customers never placed a valid order.** 49 of 137 customers have a blank, zero or negative amount, so they bring in no revenue.
+- **2024 signups grew 57% but revenue stayed flat at about $31K.** 17 of the 44 customers from 2024 have no valid order, so revenue per signup fell from about $1,108 to about $700.
+
+## Contents
+- Key business impact
 - About the project
 - Dataset
 - Research questions
